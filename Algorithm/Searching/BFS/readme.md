@@ -12,4 +12,5 @@ find shorted way
 
 ## Problems
 - Solved
+  [x] boj 16234 아기상어
 - Unsolved
