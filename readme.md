@@ -17,7 +17,8 @@
         - BST(Binary Search Tree)
         - MST(Minumum Spanning Tree)
         - Segement Tree
-        - Red Black Tree
+        - Red Black Tree   
+    - Trie
     - Graph
     - Linked List
 - Additional Methods
