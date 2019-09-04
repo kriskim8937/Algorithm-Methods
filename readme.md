@@ -20,7 +20,10 @@
         - Red Black Tree
     - Graph
     - Linked List
-    - 
+- Additional Methods
+    - Hashing
+        - Chaining
+    - Bitwise Operation
 
 ## Format Example
 
