@@ -10,17 +10,24 @@
             - Kruscal
         - 
     - Sorting
-- Data Structure
-    - Queue
+- Abstract Data Type(Data Structure)
+    - List
+        - Linked List
     - Stack
+    - Queue
     - Tree
         - BST(Binary Search Tree)
         - MST(Minumum Spanning Tree)
         - Segement Tree
         - Red Black Tree   
-    - Trie
+    - Set
+    - Map
     - Graph
-    - Linked List
+    - Priority Queue
+    - Double Ended Queue
+    - Double Ended Priority Queue
+    - Trie
+
 - Additional Methods
     - Hashing
         - Chaining
