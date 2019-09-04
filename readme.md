@@ -8,11 +8,16 @@
         - Bellman–Ford algorithm
         - MST
             - Kruscal
+        - 
     - Sorting
 - Data Structure
     - Queue
     - Stack
     - Tree
+        - BST(Binary Search Tree)
+        - MST(Minumum Spanning Tree)
+        - Segement Tree
+        - Red Black Tree
     - Graph
     - Linked List
     - 
