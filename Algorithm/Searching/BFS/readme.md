@@ -9,7 +9,7 @@ If there is no cost(on the node) it is optimal way to find a shortest route.
 
 ## comparison
 | Tables        | BFS           | DFS |
-| :------------- :|:-------------:| :-----:|
+|:-------------:|:-------------:|:-----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
