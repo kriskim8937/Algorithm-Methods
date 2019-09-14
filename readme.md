@@ -34,6 +34,15 @@
 
 ## Folder Derectory
 - Algorithm
+    - Brute Force
+    - Divide and Conquer
+    - Dynamic Programming
+    - Greedy
+    - Combinatorial Search
+    - Change Optimaiztion probelm to decision problem
+        - pruning
+        - Heuristic
+        - Memoization
     - Searching
         - BFS
         - DFS
@@ -51,14 +60,22 @@
         - BST(Binary Search Tree)
         - MST(Minumum Spanning Tree)
         - Segement Tree
+        - Fenwik Tree(Binary index Tree)
         - Red Black Tree   
+        - Trie
     - Set
     - Map
     - Graph
+        - BFS
+        - DFS
+        - MST
+            -Kruscal
+            -Primm
+        - Network Flow
+            - Ford-Fulkerson algorithm)
     - Priority Queue
     - Double Ended Queue
     - Double Ended Priority Queue
-    - Trie
 
 - Additional Methods
     - Hashing
