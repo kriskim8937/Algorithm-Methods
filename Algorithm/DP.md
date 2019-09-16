@@ -1,11 +1,15 @@
 ## DP
 
 ## Summary
-
+```
 Smarter version brute force
 Recursive + Memoization
 If you use only recursive 'for', lots of overlaps will occur
-
+pigeonhole principle
+implicit order
+하향식 
+상향식
+```
 ## Where to use? (Application)
 
 ## comparison
