@@ -9,6 +9,10 @@ pigeonhole principle
 implicit order
 하향식 
 상향식
+K-napsack
+deterministic
+non-deterministic
+p versus np https://ratsgo.github.io/data%20structure&algorithm/2017/11/30/NP/
 ```
 ## Where to use? (Application)
 
