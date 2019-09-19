@@ -81,6 +81,8 @@
     - Hashing
         - Chaining
     - Bitwise Operation
+    - Permutation
+    - Combination
 
 ## Format Example
 
