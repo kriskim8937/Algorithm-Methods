@@ -63,9 +63,10 @@
         - Topological Sorting
         - Back-Tracking
         - Shortest path problem / https://en.wikipedia.org/wiki/Shortest_path_problem#Undirected_graphs
-            - Single-source shortest paths / Dijkstra
-            - All-pairs shortest paths / Floyd-Warshall Algorithm, Johnson's algorithm
-            - Bellamn - Ford
+            - Single-source shortest paths / Dijkstra , Bellamn - Ford
+            - All-pairs " / Floyd-Warshall Algorithm, Johnson's algorithm
+            - Single-Pair " / 
+            - Single-destination "/ 
         - MST
             -Kruscal
             -Primm
