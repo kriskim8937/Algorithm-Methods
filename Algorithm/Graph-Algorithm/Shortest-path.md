@@ -1,11 +1,12 @@
 ## Shortest path problem
   - Single-source shortest paths
-    - Dijkstra / "more efficient" than the Bellman-Ford algorithm /DP
-    - Bellamn - Ford / capable also to handle negative weights /DP
+    - Dijkstra / "more efficient" than the Bellman-Ford algorithm /non-negative edge weight. /DP
+    - Bellamn - Ford / negative weights /DP
   - All-pairs shortest paths
     - Floyd-Warshall Algorithm
-    - Johnson's algorithm
+    - Johnson's algorithm /  faster than Floyd–Warshall on sparse graphs.
   - Single-Pair " / 
+    - A* search algorithm / using heuristics
   - Single-destination "/ 
 
 ## reference
