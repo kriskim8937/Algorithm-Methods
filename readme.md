@@ -47,10 +47,14 @@
         - BFS
         - DFS
         - Bellman–Ford algorithm
-        - MST
+        - MST / 
             - Kruscal
-        - 
+            - Prim
+        - Dijkstra / Single source shortest path problem
+        - Floyd-Warshall Algorithm / All pairs shortest path problem.
     - Sorting
+    - String
+        - Levenshtein Distance, Edit Distance (편집 거리 알고리즘)
 - Abstract Data Type(Data Structure)
     - List
         - Linked List
@@ -83,6 +87,7 @@
     - Bitwise Operation
     - Permutation
     - Combination
+    - P, NP Problem
 
 ## Format Example
 
