@@ -38,6 +38,7 @@
         - MST
             -Kruscal - disjoint set, Union-find
             -Primm
+        - A* / 게임에서 최단거리 찾을 
         - Connectivity
         - Maximum Flow / Ford-Fulkerson
         - Network Flow
