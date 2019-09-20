@@ -25,8 +25,8 @@
     - String Algorithm
         - Levenshtein Distance, Edit Distance (편집 거리 알고리즘)
     - Graph Algorithms
-        - BFS
-        - DFS
+        - BFS / 넓이 우선 탐색, 최단 거리 탐색 가능
+        - DFS / 깊이 우선 탐색, 경로 추적 가능, 
         - Cycle
         - Topological Sorting
         - Back-Tracking
@@ -52,7 +52,7 @@
     - Stack
     - Queue
     - Tree
-        - BST(Binary Search Tree)
+        - BST(Binary Search Tree) / inorder traversal 시 오름차순
         - MST(Minumum Spanning Tree)
         - Segement Tree
         - Fenwik Tree(Binary index Tree)
@@ -60,7 +60,7 @@
             - AVL Tree
             - Splay Tree
             - B Tree
-            - Red-Black Tree
+            - Red-Black Tree / BST에서 큰 값이 계속 들어와 탐색 시간이 오래 걸릴 수 있는데, 이를 restructing, recoloring을 통해 
         - Self-Balancing BSTs
             - K Dimensional Tree
         - Trie
