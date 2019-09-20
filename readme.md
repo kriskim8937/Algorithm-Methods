@@ -57,10 +57,10 @@
         - Segement Tree
         - Fenwik Tree(Binary index Tree)
         - Suffix Tree
-            - AVL Tree
+            - AVL Tree / BST, RBT에 삽입 삭제 불리, 검색 유리
             - Splay Tree
             - B Tree
-            - Red-Black Tree / BST에서 큰 값이 계속 들어와 탐색 시간이 오래 걸릴 수 있는데, 이를 restructing, recoloring을 통해 balancing
+            - Red-Black Tree / BST, AVL에 비해 삽입 삭제 유리, 검색 불리
         - Self-Balancing BSTs
             - K Dimensional Tree
         - Trie / 문자열 탐색 알고리즘
