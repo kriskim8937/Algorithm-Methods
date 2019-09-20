@@ -1,5 +1,8 @@
 ## DP
 > Solves a given complex problem by breaking it into subproblems and stores the results of subproblems to avoid computing the same results again. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later. This simple optimization reduces time complexities from exponential to polynomial.
+- Overlapping Subproblems
+- Optimal Substructure
+  - ex) Floyd–Warshall and Bellman–Ford
 ## Summary
 ```
 Smarter version brute force
@@ -16,9 +19,7 @@ p versus np https://ratsgo.github.io/data%20structure&algorithm/2017/11/30/NP/
  - Tabulation: Bottom Up / 상향식 
  - Memoization: Top Down / 하향식
 ## Where to use? (Application)
- - Tabulation: Bottom Up 
-  
- - Memoization: Top Down / 상향식
+ - So Dynamic Programming is not useful when there are no common (overlapping) subproblems because there is no point storing the solutions if they are not needed again.  For example, Binary Search doesn’t have common subproblems.
 ## comparison
 | Tables        | Tabulation/ Bottom Up    | Memoization/ Top Down |
 |:-------------:|:-------------:|:-----------:|
@@ -35,6 +36,7 @@ find shorted way
 ## Problems
 - Tabulation
   - Solved
+    - [] LCS problem 
   - Unsolved
     - [x] 토끼수 구하기 
 - Memoization
