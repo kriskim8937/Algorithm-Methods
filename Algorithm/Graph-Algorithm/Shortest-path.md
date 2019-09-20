@@ -2,7 +2,9 @@
   - Single-source shortest paths
     - Dijkstra / "more efficient" than the Bellman-Ford algorithm
     - Bellamn - Ford / capable also to handle negative weights
-  - All-pairs " / Floyd-Warshall Algorithm, Johnson's algorithm
+  - All-pairs shortest paths
+    - Floyd-Warshall Algorithm
+    - Johnson's algorithm
   - Single-Pair " / 
   - Single-destination "/ 
 
