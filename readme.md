@@ -32,11 +32,11 @@
         - Back-Tracking
         - Shortest path problem / https://en.wikipedia.org/wiki/Shortest_path_problem#Undirected_graphs
             - Single-source shortest paths / Dijkstra , Bellamn - Ford
-            - All-pairs " / Floyd-Warshall Algorithm, Johnson's algorithm
-            - Single-Pair " / 
-            - Single-destination "/ 
+            - All-pairs shortest paths / Floyd-Warshall Algorithm, Johnson's algorithm
+            - Single-Pair shortest paths / 
+            - Single-destination shortest paths / 
         - MST
-            -Kruscal
+            -Kruscal - disjoint set, Union-find
             -Primm
         - Connectivity
         - Maximum Flow / Ford-Fulkerson
