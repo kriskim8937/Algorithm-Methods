@@ -44,7 +44,7 @@
         - Network Flow
             - Ford-Fulkerson algorithm)
     - Pattern Searching
-        - KMP
+        - KMP / 문자열 검색 알고리즘 
 
 - Abstract Data Type(Data Structure)
     - List
@@ -60,10 +60,10 @@
             - AVL Tree
             - Splay Tree
             - B Tree
-            - Red-Black Tree / BST에서 큰 값이 계속 들어와 탐색 시간이 오래 걸릴 수 있는데, 이를 restructing, recoloring을 통해 
+            - Red-Black Tree / BST에서 큰 값이 계속 들어와 탐색 시간이 오래 걸릴 수 있는데, 이를 restructing, recoloring을 통해 balancing
         - Self-Balancing BSTs
             - K Dimensional Tree
-        - Trie
+        - Trie / 문자열 탐색 알고리즘
         - Heap
     - Hashing
         - Chaning
