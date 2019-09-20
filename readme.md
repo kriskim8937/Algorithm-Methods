@@ -34,27 +34,46 @@
 
 ## Folder Derectory
 - Algorithm
-    - Brute Force
-    - Divide and Conquer
-    - Dynamic Programming
-    - Greedy
+    - Paradigms
+        - Greedy
+        - Dynamic Programming
+        - Brute Force
+        - Divide and Conquer
+        - Back-Tracking
+        - Branch & Bound
     - Combinatorial Search
-    - Change Optimaiztion probelm to decision problem
+    - Change Optimaiztion problem to decision problem
         - pruning
         - Heuristic
         - Memoization
     - Searching
+        - Linear Search
+        - Binary Search
+        - Interpolation Search
+        - Jump Search
+    - Sorting
+    - String Algorithm
+        - Levenshtein Distance, Edit Distance (편집 거리 알고리즘)
+    - Graph Algorithms
         - BFS
         - DFS
-        - Bellman–Ford algorithm
-        - MST / 
-            - Kruscal
-            - Prim
-        - Dijkstra / Single source shortest path problem
-        - Floyd-Warshall Algorithm / All pairs shortest path problem.
-    - Sorting
-    - String
-        - Levenshtein Distance, Edit Distance (편집 거리 알고리즘)
+        - Cycle
+        - Topological Sorting
+        - Back-Tracking
+        - Shortest path problem / https://en.wikipedia.org/wiki/Shortest_path_problem#Undirected_graphs
+            - Single-source shortest paths / Dijkstra
+            - All-pairs shortest paths / Floyd-Warshall Algorithm, Johnson's algorithm
+            - Bellamn - Ford
+        - MST
+            -Kruscal
+            -Primm
+        - Connectivity
+        - Maximum Flow / Ford-Fulkerson
+        - Network Flow
+            - Ford-Fulkerson algorithm)
+    - Pattern Searching
+        - KMP
+
 - Abstract Data Type(Data Structure)
     - List
         - Linked List
@@ -70,13 +89,6 @@
     - Set
     - Map
     - Graph
-        - BFS
-        - DFS
-        - MST
-            -Kruscal
-            -Primm
-        - Network Flow
-            - Ford-Fulkerson algorithm)
     - Priority Queue
     - Double Ended Queue
     - Double Ended Priority Queue
