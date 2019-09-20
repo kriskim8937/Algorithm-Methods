@@ -44,7 +44,7 @@ find shorted way
 ## Problems
 - Tabulation
   - Solved
-    - [] LCS problem 
+    - [ ] LCS problem 
   - Unsolved
     - [x] 토끼수 구하기 
 - Memoization
