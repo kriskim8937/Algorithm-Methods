@@ -1,5 +1,5 @@
 ## DP
-> Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later. This simple optimization reduces time complexities from exponential to polynomial. For example, if we write simple recursive solution for Fibonacci Numbers, we get exponential time complexity and if we optimize it by storing solutions of subproblems, time complexity reduces to linear.
+> Solves a given complex problem by breaking it into subproblems and stores the results of subproblems to avoid computing the same results again. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later. This simple optimization reduces time complexities from exponential to polynomial.
 ## Summary
 ```
 Smarter version brute force
@@ -22,11 +22,11 @@ p versus np https://ratsgo.github.io/data%20structure&algorithm/2017/11/30/NP/
 ## comparison
 | Tables        | Tabulation/ Bottom Up    | Memoization/ Top Down |
 |:-------------:|:-------------:|:-----------:|
-| state      | State Transition relation is diffult to think | $1600 |
-| code      | centered      |   $12 |
-| speed | are neat      |    $1 |
-| Subproblem Solving | are neat      |    $1 |
-| Table Entries | are neat      |    $1 |
+| state      | State Transition relation is diffult to think | State transition relation is easy to think |
+| code      | Code gets complicated when lot of conditions are required      |   Code is easy and less complicated |
+| speed | Fast, as we directly access previous states from the table      |   Slow due to lot of recursive calls and return statement |
+| Subproblem Solving | If all subproblems must be solved at least once, BUDP usually outperforms a TDDP by a constant factor  | If some sub problems need not be solved at all, TDDP has the advantage of solving only subprobelm that are required |
+| Table Entries | Starting from the entry, all filled one by one | The table is filled on demand |
 
 
 ## tags
