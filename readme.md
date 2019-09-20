@@ -41,6 +41,8 @@
         - Divide and Conquer
         - Back-Tracking
         - Branch & Bound
+        - P, NP Problem
+    - Bitwise
     - Combinatorial Search
     - Change Optimaiztion problem to decision problem
         - pruning
@@ -84,8 +86,17 @@
         - MST(Minumum Spanning Tree)
         - Segement Tree
         - Fenwik Tree(Binary index Tree)
-        - Red Black Tree   
+        - Suffix Tree
+            - AVL Tree
+            - Splay Tree
+            - B Tree
+            - Red-Black Tree
+        - Self-Balancing BSTs
+            - K Dimensional Tree
         - Trie
+        - Heap
+    - Hashing
+        - Chaning
     - Set
     - Map
     - Graph
@@ -94,12 +105,7 @@
     - Double Ended Priority Queue
 
 - Additional Methods
-    - Hashing
-        - Chaining
-    - Bitwise Operation
-    - Permutation
-    - Combination
-    - P, NP Problem
+    
 
 ## Format Example
 
