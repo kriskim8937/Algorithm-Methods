@@ -14,7 +14,19 @@
   - 그냥 for 문 돌려라 
 - Map 순회 
 - Permutation, Combination 구현하기
-
+## data structure
+- 주요 자료 구조들
+- Arrays
+- Queue
+- Linkedlist
+- Sorted Map
+- Deque
+- PriorityQueue /https://www.geeksforgeeks.org/priority-queue-class-in-java-2/
+  - 선언 방식
+  - iterartor 사용법
+  - poll / 맨 처음 꺼 꺼내기
+  - contains , 이거 포함해?
+  - toArray, array로 변환
 
 ## reference
 - https://www.java67.com/2016/07/how-to-sort-array-in-descending-order-in-java.html
