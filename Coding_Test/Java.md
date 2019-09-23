@@ -27,6 +27,17 @@
   - poll / 맨 처음 꺼 꺼내기
   - contains , 이거 포함해?
   - toArray, array로 변환
+  
+## Comprator Comparable 
+- 둘은 사용하는 방식이 다르다.. 실수하지 말자
+
+## 2차원 배열
+- 자바의 배열은 한줄씩 모두 객체이다
+- 2차원 배열의 행의 길이는 고정하고 열의 길이는 유동적으로 하여 선언하는 것이 가능하다
+```
+master = new char[p][];
+me = new char[q][];
+```
 
 ## reference
 - https://www.java67.com/2016/07/how-to-sort-array-in-descending-order-in-java.html
