@@ -17,6 +17,9 @@
 ## data structure
 - 주요 자료 구조들
 - Arrays
+  - Arrays.sort //배열 정렬
+  - Arrays.toString //배열 출력용
+  - Arrays.fill //배열 초기화
 - Queue
 - Linkedlist
 - Sorted Map
