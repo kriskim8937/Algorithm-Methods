@@ -16,7 +16,7 @@
 - Permutation, Combination 구현하기
 
 ### 중첩된 for 문빠져나가기
-``'
+```
 class temp
 {
 	public static void main()
@@ -33,7 +33,14 @@ class temp
 	}
 }
 ```
-
+### Char형 int로 바꾸기
+```
+String st;
+for(int i =0;i<len;i++){
+a[st.charAt(i)-'a']++
+b[st.charAt(i)-'0']++
+}
+```
 
 ## data structure
 - 주요 자료 구조들
