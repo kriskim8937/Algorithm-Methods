@@ -14,6 +14,27 @@
   - 그냥 for 문 돌려라 
 - Map 순회 
 - Permutation, Combination 구현하기
+
+### 중첩된 for 문빠져나가기
+``'
+class temp
+{
+	public static void main()
+	{
+		Loop1 : for(int i=0; i<10; ++i)
+		{
+			for(int j=0; j<10; ++j)
+			{
+				System.out.println(i * j);
+				if (i==5 && j==5)
+					break Loop1;
+			}
+		}
+	}
+}
+```
+
+
 ## data structure
 - 주요 자료 구조들
 - Arrays
