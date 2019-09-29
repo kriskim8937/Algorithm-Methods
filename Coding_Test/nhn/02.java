@@ -1,5 +1,5 @@
 package practice;
-
+//순서대로 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
