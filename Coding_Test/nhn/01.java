@@ -8,7 +8,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.regex.Pattern;
-
+//곤충카드
+//곤충 카드 string으로 입력받고 1개 추가해서 서로 같게 가능한지
 public class nhn1 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
