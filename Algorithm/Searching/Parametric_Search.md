@@ -1,5 +1,16 @@
-## Parametric_Searching
+## Parametric_Search
 
+## Where to use?
+
+## How to use?
+
+## Complexity
+
+## reference
+https://gmlwjd9405.github.io/2018/08/30/algorithm-prim-mst.html
+
+## solved
+- swea 3074 입
 ```
 /*
  * 59,728 kb->59,784 kb
