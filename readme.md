@@ -21,6 +21,7 @@
         - Binary Search
         - Interpolation Search
         - Jump Search
+        - Parametric Search
     - Sorting
     - String Algorithm
         - Levenshtein Distance, Edit Distance (편집 거리 알고리즘)
