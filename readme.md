@@ -23,6 +23,7 @@
         - Jump Search
         - Parametric Search
     - Sorting
+        - Topological Sorting / 정렬 할때 특정 노드끼리 우선순위가 존재할 경우
     - String Algorithm
         - Levenshtein Distance, Edit Distance (편집 거리 알고리즘)
     - Graph Algorithms
