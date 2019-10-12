@@ -66,7 +66,7 @@
         - Self-Balancing BSTs
             - K Dimensional Tree
         - Trie / 문자열 탐색 알고리즘
-        - Heap
+        - Heap / 최소힙, 최대힙
     - Hashing
         - Chaning
     - Set
