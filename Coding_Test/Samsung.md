@@ -23,3 +23,13 @@
   
 ## 삼성 역량 테스트 Pro
 - Hashing 사용이 가능한가?
+## reference
+- MST(kruscal, primm)
+- deque
+- 다익스트라
+- Hahing
+- DP
+- Parametric Search
+- topological sortring
+- Maximum BIpartite Matching
+- plane sweeping
