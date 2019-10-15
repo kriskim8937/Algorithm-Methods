@@ -1,0 +1,40 @@
+//비트연산으로 부분집합 만들어냄 1 10 11 ... 101010 .... 11111
+//1 개수 세서 a이상 b 개미만인 경우만
+//&연산으로 1검사해서 1위치의 값들만 출력
+
+static void Combination(int a, int b, int[] lis) {
+		// list에 있는 숫자중에 a개 이상 b개미만의 조합 전부 뽑아 내기
+		for (int i = 1; i < 1 << lis.length; i++) {
+			int count = 0;
+			//전부 다 뽑고 싶은면 count 로직 없애면 됨
+			for (int j = 0; j < lis.length; j++) {
+				if ((i & 1 << j) != 0) {
+					count++;
+				}
+			}
+			if (a <= count && count < b) {
+				for (int j = 0; j < lis.length; j++) {
+					if ((i & 1 << j) != 0) {
+						System.out.print(lis[j] + " ");
+					}
+				}
+				System.out.println();
+			}
+		}
+	}
+// 조합 , 재귀사용
+// dfs와 visited 배열 사용, 주의할점은 return 시에 visited, a, String등의 값의 
+	static boolean [] visited; 
+	static void Permutaion(int a, int count, int[] lis, String c) {
+		if(a==0) {
+			System.out.println(c);
+			return;
+		}
+		for(int i=0;i<lis.length;i++) {
+			if(!visited[i]) {
+				visited[i] = true;
+				Permutaion(a-1, count+1, lis, c+lis[i]+" ");
+				visited[i] = false;
+			}
+		}
+	}
