@@ -34,4 +34,5 @@
 - Parametric Search
 - topological sortring
 - Maximum BIpartite Matching
-- plane sweeping
+- plane sweeping // 사각형 겹친 넓이 전체함/ 구간합이 필요하기 때문에 segment tree 나 fenwik tree활용
+- Network flow
