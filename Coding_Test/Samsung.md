@@ -23,6 +23,8 @@
   
 ## 삼성 역량 테스트 Pro
 - Hashing 사용이 가능한가?
+- 기출문제
+  - 5개의 숫자를 한번에, ex) (1,3,4,5,2) -> (3,4,1,5,2) 로바꿀수 있는 swap5함수가 있을때 swap5 함수를 최소한으로 이용해서 
 ## reference
 - MST(kruscal, primm)
 - deque
