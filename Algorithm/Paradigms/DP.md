@@ -42,11 +42,18 @@ p versus np https://ratsgo.github.io/data%20structure&algorithm/2017/11/30/NP/
 find shorted way
 
 ## Problems
-- Tabulation
+- Tabulation(BUDP) // 점화식 활용
   - Solved
-    - [ ] LCS problem 
+    - [ ] LCS problem
+    - [ ] 현대 모비스 4번 컴퓨터 자판 문제
+    - [ ] boj 계단오르기
+    - [ ] LCS problem
+    - [ ] boj 2*n 타일링
+    - [ ] boj rgb 거리
+    - [ ] boj 포도주 마시기
+    - [ ] 
   - Unsolved
     - [x] 토끼수 구하기 
-- Memoization
+- Memoization(TDDP) // 재귀 활용
   - Solved
   - Unsolved
