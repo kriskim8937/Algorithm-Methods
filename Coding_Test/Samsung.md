@@ -10,7 +10,11 @@
 ## DFS
 - 백트랙킹(Back Tracking)
   - [x] boj 17142 연구소3
+  - 연구소
+  - 아기상어
+  - 다리만들기 2
 ## BFS
+  - 인구이동
 ## Permutation
 ## Combination
 - [x] boj 17142 연구소3
@@ -36,3 +40,4 @@
 - Maximum BIpartite Matching
 - plane sweeping // 사각형 겹친 넓이 전체함/ 구간합이 필요하기 때문에 segment tree 나 fenwik tree활용
 - Network flow
+- https://stack.news/2019/09/23/sw-%EC%97%AD%EB%9F%89-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8%EC%A0%9C-%EB%B6%84%EC%84%9D/
